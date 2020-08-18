@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.bea7b164.chunk.js",
-    "main.js.map": "/static/js/main.bea7b164.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7a4f0968.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7a4f0968.js.map",
-    "static/js/2.08369e46.chunk.js": "/static/js/2.08369e46.chunk.js",
-    "static/js/2.08369e46.chunk.js.map": "/static/js/2.08369e46.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.54453add42b2a0d896f185d68a0b09f4.js": "/precache-manifest.54453add42b2a0d896f185d68a0b09f4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.08369e46.chunk.js.LICENSE.txt": "/static/js/2.08369e46.chunk.js.LICENSE.txt"
+    "main.js": "/react-typescript-playground/static/js/main.bea7b164.chunk.js",
+    "main.js.map": "/react-typescript-playground/static/js/main.bea7b164.chunk.js.map",
+    "runtime-main.js": "/react-typescript-playground/static/js/runtime-main.c62af5f8.js",
+    "runtime-main.js.map": "/react-typescript-playground/static/js/runtime-main.c62af5f8.js.map",
+    "static/js/2.08369e46.chunk.js": "/react-typescript-playground/static/js/2.08369e46.chunk.js",
+    "static/js/2.08369e46.chunk.js.map": "/react-typescript-playground/static/js/2.08369e46.chunk.js.map",
+    "index.html": "/react-typescript-playground/index.html",
+    "precache-manifest.891849e6cc8b337a0610131fd4df5af9.js": "/react-typescript-playground/precache-manifest.891849e6cc8b337a0610131fd4df5af9.js",
+    "service-worker.js": "/react-typescript-playground/service-worker.js",
+    "static/js/2.08369e46.chunk.js.LICENSE.txt": "/react-typescript-playground/static/js/2.08369e46.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a4f0968.js",
+    "static/js/runtime-main.c62af5f8.js",
     "static/js/2.08369e46.chunk.js",
     "static/js/main.bea7b164.chunk.js"
   ]
